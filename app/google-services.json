@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "466860458664",
+    "firebase_url": "https://onlinevotingsystem-e3727.firebaseio.com",
+    "project_id": "onlinevotingsystem-e3727",
+    "storage_bucket": "onlinevotingsystem-e3727.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466860458664:android:e87b09aec19327c6",
+        "android_client_info": {
+          "package_name": "com.example.cdhan.onlinevotingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466860458664-gh6ktfjupu9ihk3bu9mklgcotkohr764.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cdhan.onlinevotingsystem",
+            "certificate_hash": "b01bdabb17c6177de479135d47a75b01fa0b15ac"
+          }
+        },
+        {
+          "client_id": "466860458664-ce6aseq1q2al1cms70rsihb8eo92oi4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmxR_Jm2Rrl2ggcwqq0kUNt76c3ejT8uc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466860458664-ce6aseq1q2al1cms70rsihb8eo92oi4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
